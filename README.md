@@ -61,3 +61,20 @@ We want to deploy this on Android using TensorFlow Lite in future, so that it be
 
 
 
+
+
+
+<hr></hr>
+
+<h2>Installation:</h2>
+<h1>• Dependencies:</h1>
+<ul>
+  <li>OpenCV (opencv-python==3.4.2.17)</li>
+  <li>Tkinter</li>
+  
+</ul>
+
+Then, to run the script from terminal just use:
+`python3 tkinterProgram.py`
+` 
+
