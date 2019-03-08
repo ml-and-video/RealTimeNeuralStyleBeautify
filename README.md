@@ -66,8 +66,8 @@ We want to deploy this on Android using TensorFlow Lite in future, so that it be
 
 <hr></hr>
 
-<h2>Installation:</h2>
-<h1>• Dependencies:</h1>
+<h3>Installation:</h3>
+<h4>• Dependencies:</h4>
 <ul>
   <li>OpenCV (opencv-python==3.4.2.17)</li>
   <li>Tkinter</li>
