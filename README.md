@@ -74,7 +74,9 @@ We want to deploy this on Android using TensorFlow Lite in future, so that it be
   
 </ul>
 
+IMPORTANT: To use the pre-defined weights you need to run the shell file (.sh) inside the models folder to download the .h5 files for different styles.
+
 Then, to run the script from terminal just use:
 `python3 tkinterProgram.py`
-` 
+`
 
