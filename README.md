@@ -8,7 +8,7 @@ We used OpenCV to capture real time videos and take snaps of every frame and pro
 
 To implement this in a user friendly manner, we have created an application using Tkinter module in Python. The user has choice to either select his/her own image by specifying a directory path and then selecting any given style. Also, they can select to capture a real time video with their desired style using the same application. We also implemented a small web application for the same (https://github.com/raghav275/Neural_Style_Transfer_Website)
 
-Here is a sneak-peek of the application developed using Tkinter:
+Here is a view of the application developed using Tkinter:
 ![alt text](https://github.com/pip33eed/RealTimeNeuralStyleBeautify/blob/master/ss1.png "Sneak Peak")
 
 The user has to copy the directory to the path of the image along with it's image name and insert in, and click on submit:
